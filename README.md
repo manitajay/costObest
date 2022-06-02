@@ -27,6 +27,17 @@ the customers find it convenient to shop online but presence of many websites ma
 confusing task for the customer to judge. This project aims at resolving this ambiguity
 
 
+## REFERENCES:
+
+1. https://www.python.org/ 
+2. https://docs.python-requests.org/en/latest/ 
+3. https://beautiful-soup-4.readthedocs.io/en/latest/ 
+4. https://docs.python.org/3/library/html.parser.html 
+5. https://streamlit.io/ 
+
+
+
+
 
 
 
