@@ -3,7 +3,6 @@
 To help students with the best possible available options of books on various websites.
 
 install python 3 compiler.
-  https://www.python.org/downloads/
   
   install there modules: 
     pip install requests
@@ -26,11 +25,6 @@ different sites and comparing them at the same place on the basis of price , rev
 the customers find it convenient to shop online but presence of many websites makes it a bit 
 confusing task for the customer to judge. This project aims at resolving this ambiguity
 
-
-# BLOCK DIAGRAMS AND METHODOLOGY
-1. Web sites are picked and API calls are made in step 1 .
-2. The response received is to be scraped using beautiful soup.
-3. Important information retrieved is to stored in server and rendered.
 
 
 
