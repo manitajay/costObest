@@ -5,9 +5,10 @@ To help students with the best possible available options of books on various we
 install python 3 compiler.
   
   install there modules: 
-    pip install requests
-    pip install BeautifulSoup
-    pip install streamlit
+  
+    pip install requests 
+    pip install BeautifulSoup 
+    pip install streamlit 
 
 
 now can run in local host.
