@@ -14,7 +14,7 @@ install python 3 compiler.
 now can run in local host.
 
 
-# introduction
+# Introduction
   
   The project is aimed to provide the ease and comfort with which the students can browse the
 books available on various sites and can buy the same accordingly. The project deals with
