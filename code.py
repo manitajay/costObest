@@ -431,8 +431,6 @@ for i in range(0, val5):
 
 ls.sort()
 
-pip install streamlit
-
 
 list_book_serial_no=[]
 list_book_L_no=[]
